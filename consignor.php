@@ -21,7 +21,7 @@
                      </div>
                   </div>
                   <div id="broker_detail" class="collapse">
-                     <div class="row">  
+                     <div class="row">
                         <div class="col-sm-12">
                            <div class="card-box">
                               <form class="form-horizontal" role="form">
@@ -59,7 +59,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-12">
                                              <div class="form-group">
@@ -68,7 +67,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-12">
                                              <div class="form-group">
@@ -77,10 +75,9 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-6">
-                                            <div class="form-group">
+                                             <div class="form-group">
                                                 <label for="userName">A/C Name As<span class="text-danger">*</span></label>
                                                 <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
                                              </div>
@@ -89,48 +86,44 @@
                                              <div class="checkbox">
                                                 <input id="checkbox0" type="checkbox">
                                                 <label for="checkbox0" style="color:blue">
-                                                      Having 1-GST
+                                                Having 1-GST
                                                 </label>
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-6">
-                                            <div class="form-group">
+                                             <div class="form-group">
                                                 <label for="userName">Op. Balance<span class="text-danger">*</span></label>
                                                 <input type="text" name="nick" parsley-trigger="change" required="" placeholder="0" class="form-control" id="userName">
                                              </div>
                                           </div>
                                           <div class="col-md-3">
-                                                <div class="form-group">
+                                             <div class="form-group">
                                                 <label for="userName">dropdown<span class="text-danger">*</span></label>
                                                 <input type="text" name="nick" parsley-trigger="change" required="" placeholder="0" class="form-control" id="userName">
                                              </div>
                                           </div>
                                        </div>
-                                       
-                                        <!-- <div class="col-md-4">
-                                            <div class="form-group">
-                                                <input type="file" class="filestyle" data-buttonname="btn-default">
-                                            </div>
-                                        </div> -->
-
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                            <p class=" font-13 m-b-15 m-t-20" style="color:blue">Active</p>
-                                            <div class="radio radio-info radio-inline">
-                                <input type="radio" id="inlineRadio1" value="option1" name="radioInline" checked>
-                                <label for="inlineRadio1">  Yes </label>
-                            </div>
-                            <div class="radio radio-inline">
-                                <input type="radio" id="inlineRadio2" value="option2" name="radioInline" checked>
-                                <label for="inlineRadio2"> No </label>
-                            </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="row">
+                                       <!-- <div class="col-md-4">
+                                          <div class="form-group">
+                                              <input type="file" class="filestyle" data-buttonname="btn-default">
+                                          </div>
+                                          </div> -->
+                                       <div class="row">
+                                          <div class="col-md-6">
+                                             <p class=" font-13 m-b-15 m-t-20" style="color:blue">Active</p>
+                                             <div class="radio radio-info radio-inline">
+                                                <input type="radio" id="inlineRadio1" value="option1" name="radioInline" checked>
+                                                <label for="inlineRadio1">  Yes </label>
+                                             </div>
+                                             <div class="radio radio-inline">
+                                                <input type="radio" id="inlineRadio2" value="option2" name="radioInline" checked>
+                                                <label for="inlineRadio2"> No </label>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
                                           <div class="col-md-12">
                                              <div class="form-group">
                                                 <label for="userName">Vehicle Group<span class="text-danger">*</span></label>
@@ -138,19 +131,14 @@
                                              </div>
                                           </div>
                                        </div>
-                                 
-
-                                        <div class="row">
-                                    <div class="col-md-12">
-                                       <div class="form-group">
-                                          <label for="userName">Address<span class="text-danger">*</span></label>
-                                          <textarea class="form-control" rows="5"></textarea>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Address<span class="text-danger">*</span></label>
+                                                <textarea class="form-control" rows="5"></textarea>
+                                             </div>
+                                          </div>
                                        </div>
-                                    </div>
-                                 </div>
-    
-                                       
-
                                        <div class="row">
                                           <div class="col-md-12">
                                              <div class="form-group">
@@ -159,7 +147,7 @@
                                              </div>
                                           </div>
                                        </div>
-                                      <div class="row">
+                                       <div class="row">
                                           <div class="col-md-6">
                                              <div class="form-group">
                                                 <label for="userName">City</label>
@@ -191,7 +179,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-6">
                                              <div class="form-group">
@@ -200,7 +187,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-6">
                                              <div class="form-group">
@@ -209,9 +195,7 @@
                                              </div>
                                           </div>
                                        </div>
-                                       
-
-                                        <div class="row">
+                                       <div class="row">
                                           <div class="col-md-6">
                                              <div class="form-group">
                                                 <label for="userName">Commision %</label>
@@ -225,7 +209,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-6">
                                              <div class="form-group">
@@ -234,14 +217,10 @@
                                              </div>
                                           </div>
                                        </div>
-
-                                      
-                                      
-
                                     </div>
                                     <div class="col-md-6">
                                        <div class="row">
-                                       <h6 style="color:red">Contact Person</h6>
+                                          <h6 style="color:red">Contact Person</h6>
                                           <div class="col-md-12">
                                              <div class="form-group">
                                                 <label for="userName">Name<span class="text-danger">*</span></label>
@@ -250,7 +229,6 @@
                                           </div>
                                        </div>
                                        <div class="row">
-                                    
                                           <div class="col-md-12">
                                              <div class="form-group">
                                                 <label for="userName">Designation<span class="text-danger">*</span></label>
@@ -258,109 +236,90 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
-                                    
-                                         <div class="col-md-12">
-                                         <div class="form-group">
-                                             <label for="userName">Mobile No<span class="text-danger">*</span></label>
-                                            <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Mobile No<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
                                           </div>
-                                        </div>
-                                     </div>
-                                     
-                                     <div class="row">
-                                    
-                                         <div class="col-md-12">
-                                         <div class="form-group">
-                                             <label for="userName">Email No<span class="text-danger">*</span></label>
-                                            <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                          </div>
-                                        </div>
-                                     </div>
-                                    <br>
-                                     <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Name<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Designation<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-                                     
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Mobile No<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Email No<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-                                <br>
-
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Name<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Designation<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Mobile No<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-
-                                <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Email No<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-                                       
-
+                                       </div>
                                        <div class="row">
-                                       <h6 style="color:red">Bank Account</h6>
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Email No<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <br>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Name<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Designation<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Mobile No<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Email No<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <br>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Name<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Designation<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Mobile No<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Email No<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <h6 style="color:red">Bank Account</h6>
                                           <div class="col-md-12">
                                              <div class="form-group">
                                                 <label for="userName">Bank Name<span class="text-danger">*</span></label>
@@ -368,9 +327,7 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
-                                       
                                           <div class="col-md-12">
                                              <div class="form-group">
                                                 <label for="userName">Branh Name<span class="text-danger">*</span></label>
@@ -378,9 +335,7 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
-                                       
                                           <div class="col-md-6">
                                              <div class="form-group">
                                                 <label for="userName">A/C No<span class="text-danger">*</span></label>
@@ -388,9 +343,7 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
-                                       
                                           <div class="col-md-6">
                                              <div class="form-group">
                                                 <label for="userName">IFSC Code<span class="text-danger">*</span></label>
@@ -398,14 +351,6 @@
                                              </div>
                                           </div>
                                        </div>
-
-
-                                    
-
-                                       
-
-                                       
-
                                     </div>
                                  </div>
                               </form>

@@ -31,7 +31,7 @@
                                              <div class="col-md-12">
                                                 <div class="form-group">
                                                    <label for="userName">Branch<span class="text-danger">*</span></label>
-                                                    <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                   <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
                                                 </div>
                                              </div>
                                           </div>
@@ -55,9 +55,7 @@
                                              <div class="col-md-12">
                                                 <div class="form-group">
                                                    <label for="userName">Date</label>
-                                                  
                                                    <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                              
                                                 </div>
                                              </div>
                                           </div>
@@ -65,9 +63,7 @@
                                              <div class="col-md-12">
                                                 <div class="form-group">
                                                    <label for="userName">ULd Date</label>
-                                                  
                                                    <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                              
                                                 </div>
                                              </div>
                                           </div>
@@ -146,7 +142,6 @@
                                                    <select class="form-control">
                                                       <option></option>
                                                    </select>
-                                                   
                                                 </div>
                                              </div>
                                           </div>
@@ -161,7 +156,6 @@
                                           <div class="row">
                                              <div class="col-md-12">
                                                 <div class="form-group">
-                                                   
                                                    <input type="button"   class="btn btn-secondary" style="width: 200px;" value="Select LR"><br>
                                                 </div>
                                              </div>
@@ -175,7 +169,7 @@
                         <div class="row">
                            <div class="col-md-12">
                               <div class="row">
-                                 <div class="table-responsive">
+                                 <div class="card-box table-responsive">
                                     <table  class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
                                        <thead class="primary">
                                           <tr>
@@ -183,262 +177,249 @@
                                              <th>Lr.No.</th>
                                              <th>Lr Extn</th>
                                              <th>Vehicle</th>
-                                                      <th>Date</th>
-                                                      <th>Consignor</th>
-                                                      <th>Consignee</th>
-                                                      <th>From</th>
-                                                      <th>To</th>
-                                                      <th>Material</th>
-                                                      <th>Pkg Type</th>
-                                                      <th>Ld. Wt</th>
+                                             <th>Date</th>
+                                             <th>Consignor</th>
+                                             <th>Consignee</th>
+                                             <th>From</th>
+                                             <th>To</th>
+                                             <th>Material</th>
+                                             <th>Pkg Type</th>
+                                             <th>Ld. Wt</th>
                                           </tr>
                                        </thead>
                                        <tbody>
                                           <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
                                           </tr>
                                           <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   
-                                                   
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   
-                                                   <tr>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                </tbody>
-                                             </table>
-                                          </div>
-                                       </div>
-                                    </div>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                          <tr>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                             <td></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
                                  </div>
-                                 <div class="row">
-                                    <div class="col-md-12">
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row">
+                           <div class="col-md-12">
+                              <div class="row">
+                                 <div class="col-sm-12">
+                                    <form class="card-box form-horizontal" role="form">
                                        <div class="row">
-                                          <div class="col-sm-12">
-                                             <form class="form-horizontal" role="form">
-                                                <div class="row">
-                                                   <div class="col-md-12">
+                                          <div class="col-md-12">
+                                             <div class="row">
+                                                <div class="col-md-12">
+                                                   <div class="form-group">
+                                                      <label for="userName">Remark<span class="text-danger">*</span></label>
                                                       <div class="row">
-                                                         <div class="col-md-12">
-                                                            <div class="form-group">
-                                                               <label for="userName">Remark<span class="text-danger">*</span></label>
-                                                               <div class="row">
-                                                                  <div class="col-md-4">
-                                                                     <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
-                                                                    
-                                                                  </div>
-                                                                  <div class="col-md-4">
-                                                                     <input type="button"   class="btn btn-secondary" id="userName" value="Trip Expense"> 
-                                                                  </div>
-
-                                                               </div>
-                                                            </div>
+                                                         <div class="col-md-4">
+                                                            <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
+                                                         </div>
+                                                         <div class="col-md-4">
+                                                            <input type="button"   class="btn btn-secondary" id="userName" value="Trip Expense"> 
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </div>
-                                                <div class="row">
-                                                   <div class="col-md-12">
-                                                      <div class="row">
-                                                         <div class="col-md-4">
-                                                            <div class="form-group">
-                                                               <label for="userName">Set LR<span class="text-danger">*</span></label>
-                                                               
-                                                               <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
-                                                                    
-                                                            </div>
-                                                         </div>
-                                                         <div class="col-md-4">
-                                                            <div class="form-group">
-                                                               <label for="userName">Tot LR<span class="text-danger">*</span></label>
-                                                               
-                                                               <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
-                                                                    
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      
-                                                                  
-
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="row">
+                                                <div class="col-md-4">
+                                                   <div class="form-group">
+                                                      <label for="userName">Set LR<span class="text-danger">*</span></label>
+                                                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
+                                                   </div>
+                                                </div>
+                                                <div class="col-md-4">
+                                                   <div class="form-group">
+                                                      <label for="userName">Tot LR<span class="text-danger">*</span></label>
+                                                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
                                                    </div>
                                                 </div>
                                              </div>
                                           </div>
                                        </div>
                                     </div>
-                                 </form>
+                                 </div>
                               </div>
                            </div>
-                        </div>
+                        </form>
                      </div>
                   </div>
                </div>
             </div>
-            <!-- container -->
          </div>
-         <?php include_once('include/footer.php');?>
-         <!-- end Footer -->
+      </div>
+      </div>
+      <!-- container -->
+      </div>
+      <?php include_once('include/footer.php');?>
+      <!-- end Footer -->
       </div>
       <!-- ============================================================== -->
       <!-- End Page content -->

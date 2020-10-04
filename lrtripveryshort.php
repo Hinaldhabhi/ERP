@@ -115,11 +115,11 @@
                                                 <div class="form-group">
                                                    <label for="userName">Chin No.<span class="text-danger">*</span></label>
                                                    <div class="row">
-                                                      <div class="col-md-9">
+                                                      <div class="col-md-6">
                                                          <input type="text" name="nick" parsley-trigger="change" required="" placeholder="5764" class="form-control" id="userName">
                                                       </div>
-                                                      <div class="col-md-3">
-                                                          <input type="button" class="btn btn-secondary" value="...">
+                                                      <div class="col-md-6">
+                                                          <input type="file" class="" value="...">
                                                       </div>
                                                    </div>
                                                 </div>

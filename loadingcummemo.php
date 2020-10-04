@@ -49,7 +49,14 @@
                                              <div class="col-md-12">
                                                 <div class="form-group">
                                                    <label for="userName">Ld No<span class="text-danger">*</span></label>
-                                                   <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                   <div class="row">
+                                                      <div class="col-md-6">
+                                                         <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                      </div>
+                                                      <div class="col-md-6">
+                                                         <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                      </div>
+                                                   </div>
                                                 </div>
                                              </div>
                                              <!-- <div class="col-md-6">
@@ -110,7 +117,7 @@
                            <div class="col-md-12">
                               <div class="row">
                                  <div class="col-sm-12">
-                                    <form class="form-horizontal" role="form">
+                                    <form class="card-box form-horizontal" role="form">
                                        <div class="row">
                                           <div class="col-md-6">
                                              <div class="row">
@@ -178,41 +185,49 @@
                                                 </div>
                                              </div>
                                              <div class="row">
-                                                <div class="col-md-6">
+                                                <div class="col-md-12">
                                                    <div class="form-group">
-                                                      <label for="userName">Load Wt</label>
-                                                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                      <div class="row">
+                                                         <div class="col-md-6">
+                                                            <div class="form-group">
+                                                               <label for="userName">Load Wt</label>
+                                                               <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                            </div>
+                                                         </div>
+                                                         <div class="col-md-6">
+                                                            <div class="form-group">
+                                                               <label for="userName">Charge Wt</label>
+                                                               <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                            </div>
+                                                         </div>
+                                                      </div>
                                                    </div>
                                                 </div>
                                              </div>
                                              <div class="row">
-                                                <div class="col-md-6">
+                                                <div class="col-md-12">
                                                    <div class="form-group">
-                                                      <label for="userName">Charge Wt</label>
-                                                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="row">
-                                                <div class="col-md-6">
-                                                   <div class="form-group">
-                                                      <label for="userName">No. of Pkg</label>
-                                                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="row">
-                                                <div class="col-md-6">
-                                                   <div class="form-group">
-                                                      <label for="userName">Net KM</label>
-                                                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                      <div class="row">
+                                                         <div class="col-md-6">
+                                                            <div class="form-group">
+                                                               <label for="userName">No. of Pkg</label>
+                                                               <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                            </div>
+                                                         </div>
+                                                         <div class="col-md-6">
+                                                            <div class="form-group">
+                                                               <label for="userName">Net KM</label>
+                                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                                            </div>
+                                                         </div>
+                                                      </div>
                                                    </div>
                                                 </div>
                                              </div>
                                           </div>
                                           <div class="col-md-6">
                                              <div class="row">
-                                                <div class="col-md-6">
+                                                <div class="col-md-12">
                                                    <div class="form-group">
                                                       <label for="userName">Commission<span class="text-danger">*</span></label>
                                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
@@ -260,15 +275,15 @@
                            <div class="col-md-12">
                               <div class="row">
                                  <div class="col-sm-12">
-                                    <form class="form-horizontal" role="form">
+                                    <form class="card-box form-horizontal" role="form">
                                        <div class="row">
                                           <div class="col-md-12">
                                              <div class="row">
-                                                <div class="col-md-12">
+                                                <div class="col-md-8">
                                                    <div class="form-group">
                                                       <label for="userName">Remark<span class="text-danger">*</span></label>
                                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName"><br>
-                                                      <input type="file" class="filestyle form-control">
+                                                      <input type="file" class="filestyle">
                                                    </div>
                                                 </div>
                                              </div>

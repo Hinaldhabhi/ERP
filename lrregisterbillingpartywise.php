@@ -26,23 +26,22 @@
                               <div class="card-box">
                                  <form class="form-horizontal" role="form">
                                     <div class="row">
-
                                        <div class="col-md-6">
                                           <div class="row">
                                              <div class="col-md-12">
                                                 <div class="form-group">
                                                    <h6 style="color: blue;text-align: center;" class="pull-right">Lr Register</h6>
                                                    <label for="userName">Group Type<span class="text-danger">*</span></label>
-                                                <div class="row">
-                                                   <div class="col-md-10">
-                                                       <select class="form-control">
-                                                         <option></option>
-                                                      </select>
+                                                   <div class="row">
+                                                      <div class="col-md-10">
+                                                         <select class="form-control">
+                                                            <option></option>
+                                                         </select>
+                                                      </div>
+                                                      <div class="col-md-2">
+                                                         <input type="button" name="" class="btn btn-secondary" value="show">
+                                                      </div>
                                                    </div>
-                                                   <div class="col-md-2">
-                                                      <input type="button" name="" class="btn btn-secondary" value="show">
-                                                   </div>
-                                                 </div>  
                                                 </div>
                                              </div>
                                           </div>
@@ -51,19 +50,19 @@
                                                 <div class="form-group">
                                                    <label for="userName">View List<span class="text-danger">*</span></label>
                                                    <div class="row">
-                                                   <div class="col-md-10">
-                                                       <select class="form-control">
-                                                         <option>LR Sum 1</option>
-                                                      </select>
+                                                      <div class="col-md-6">
+                                                         <select class="form-control">
+                                                            <option>LR Sum 1</option>
+                                                         </select>
+                                                      </div>
+                                                      <div class="col-md-6">
+                                                         <input type="file" name="" class="" value="....">
+                                                      </div>
                                                    </div>
-                                                   <div class="col-md-2">
-                                                      <input type="button" name="" class="btn btn-secondary" value="....">
-                                                   </div>
-                                                 </div>  
-                                                </div>
                                                 </div>
                                              </div>
-                                             <div class="row">
+                                          </div>
+                                          <div class="row">
                                              <div class="col-md-12">
                                                 <div class="form-group">
                                                    <label for="userName">Find By<span class="text-danger">*</span></label>
@@ -72,129 +71,120 @@
                                              </div>
                                              <div class="col-md-12">
                                                 <div class="form-group">
-                                                   
                                                    <input type="button"  class="btn btn-secondary" id="userName" value="Rate Change">
                                                 </div>
                                              </div>
                                           </div>
-                                          
-                                    </div>
-                                    <div class="col-md-6">
+                                       </div>
+                                       <div class="col-md-6">
                                           <div class="row">
-                                 
-                                          <div class="table-responsive">
-                                             <table  class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
-                                              <!--  <thead class="primary">
-                                                   <tr>
-                                                      <th>Sr.No</th>
-                                                      <th>Lr.No</th>
-                                                      <th>LrExtn</th>
-                                                      <th>Date</th>
-                                                      <th>Vehicle</th>
-                                                      <th>From</th>
-                                                      <th>To</th>
-                                                      <th>Freight</th>
-                                                     <th></th>
-                                                   </tr>
-                                                </thead> -->
-                                                <tbody>
-                                                   <tr>
-                                                      <td>LR No From</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                        
-                                                   </tr>
-                                                   <tr>
-                                                      <td>Data From</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td>Vehicle No</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td>Billing Party</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      
-                                                   </tr>
-                                                   <tr>
-                                                      <td>Station From</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                      
-                                                   </tr>
-                                                   <tr>
-                                                      <td>To</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td>Material</td>
-                                                      <td></td>
-                                                      <td></td>
-                                                   </tr>
-                                                  
-                                                </tbody>
-                                             </table>
+                                             <div class="table-responsive">
+                                                <table  class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                                                   <!--  <thead class="primary">
+                                                      <tr>
+                                                         <th>Sr.No</th>
+                                                         <th>Lr.No</th>
+                                                         <th>LrExtn</th>
+                                                         <th>Date</th>
+                                                         <th>Vehicle</th>
+                                                         <th>From</th>
+                                                         <th>To</th>
+                                                         <th>Freight</th>
+                                                        <th></th>
+                                                      </tr>
+                                                      </thead> -->
+                                                   <tbody>
+                                                      <tr>
+                                                         <td>LR No From</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Data From</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Vehicle No</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Billing Party</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Station From</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>To</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Material</td>
+                                                         <td></td>
+                                                         <td></td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </div>
                                           </div>
                                        </div>
- 
-                                 </div>
-                              </div>                          
-                           </form>
+                                    </div>
+                                 </form>
+                              </div>
+                           </div>
                         </div>
                      </div>
-                        </div>
-                        <div class="row">
-                           <div class="col-md-12">
-                              <div class="row">
-                                 <div class="col-md-12">
-                                       <div class="row">
-                                          <div class="table-responsive">
-                                             <table  class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
-                                                <thead class="primary">
-                                                   <tr>
-                                                       <th>Party Name</th>
-                                                      <th>Count</th>
-                                                      <th>Ld. Wt</th>
-                                                      <th>Trip KM</th>
-                                                      <th>Tot. Frght</th>
-                                                   </tr>
-                                                </thead>
-                                                <tbody>
-                                                   <tr>
-                                                      <td>A ONE PAINTCHEM PVT LTD</td>
-                                                      <td>1</td>
-                                                      <td>36316.950</td>
-                                                      <td>0</td>
-                                                      <td>485125393.67</td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td>A ONE PAINTCHEM PVT LTD</td>
-                                                      <td>1</td>
-                                                      <td>36316.950</td>
-                                                      <td>0</td>
-                                                      <td>485125393.67</td>
-                                                   </tr>
-                                                   <tr>
-                                                      <td>A ONE PAINTCHEM PVT LTD</td>
-                                                      <td>1</td>
-                                                      <td>36316.950</td>
-                                                      <td>0</td>
-                                                      <td>485125393.67</td>
-                                                   </tr>
-                                                </tbody>
-                                             </table>
-                                          </div>
-                                       </div>
+                     <div class="row">
+                        <div class="col-md-12">
+                           <div class="row">
+                              <div class="col-md-12">
+                                 <div class="row">
+                                    <div class="card-box table-responsive">
+                                       <table  class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                                          <thead class="primary">
+                                             <tr>
+                                                <th>Party Name</th>
+                                                <th>Count</th>
+                                                <th>Ld. Wt</th>
+                                                <th>Trip KM</th>
+                                                <th>Tot. Frght</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>A ONE PAINTCHEM PVT LTD</td>
+                                                <td>1</td>
+                                                <td>36316.950</td>
+                                                <td>0</td>
+                                                <td>485125393.67</td>
+                                             </tr>
+                                             <tr>
+                                                <td>A ONE PAINTCHEM PVT LTD</td>
+                                                <td>1</td>
+                                                <td>36316.950</td>
+                                                <td>0</td>
+                                                <td>485125393.67</td>
+                                             </tr>
+                                             <tr>
+                                                <td>A ONE PAINTCHEM PVT LTD</td>
+                                                <td>1</td>
+                                                <td>36316.950</td>
+                                                <td>0</td>
+                                                <td>485125393.67</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </div>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        
                      </div>
                   </div>
                </div>

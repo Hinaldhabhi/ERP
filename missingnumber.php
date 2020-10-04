@@ -87,7 +87,7 @@
                                        </div>
                                        <div class="col-md-6">
                                           <div class="row">
-                                             <div class="table-responsive">
+                                             <div class="card-box table-responsive">
                                                 <table  class="table table-striped table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
                                                     <thead class="primary">
                                                       <tr>

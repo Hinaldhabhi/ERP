@@ -719,22 +719,25 @@
                                         </a>
                                         <ul class="submenu">
                                             <li><a href="schedule.php">Schedule</a></li>
-                                            <li><a href="layouts-topbar-light.php">Topbar Light</a></li>
-                                            <li><a href="layouts-center-menu.php">Center Menu</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="importopening.php">Import opening Balance</a></li>
-                                            <li><a href="billcharges.php">Bill Charges</a></li>
-                                            <li><a href="registerme.php">Register Me</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
-                                            <li><a href="layouts-normal-header.php">Unsticky Header</a></li>
+                                            <li><a href="layouts-topbar-light.php">Hard Disk Backup</a></li>
+                                            <li><a href="layouts-center-menu.php">Year Ending</a></li>
+                                            <li><a href="layouts-normal-header.php">Arranage Voucher No</a></li>
+                                            <li><a href="importopening.php">Option</a></li>
+                                            <li><a href="billcharges.php">Option ACM</a></li>
+                                            <li><a href="registerme.php">Email Configer</a></li>
+                                            <li><a href="layouts-normal-header.php">SMS Configer</a></li>
+                                            <li><a href="layouts-normal-header.php">Vehicle Expenses Configer</a></li>
+                                            <li><a href="layouts-normal-header.php">Report Creation</a></li>
+                                            <li><a href="layouts-normal-header.php">View Creation</a></li>
+                                            <li><a href="layouts-normal-header.php">Cheque Print Creation</a></li>
+                                            <li><a href="layouts-normal-header.php">LR/Bulty Print Creation</a></li>
+                                            <li><a href="layouts-normal-header.php">Cover Print Creation</a></li>
+                                            <li><a href="layouts-normal-header.php">Cover Print</a></li>
+                                            <li><a href="layouts-normal-header.php">Import From Excel</a></li>
+                                            <li><a href="layouts-normal-header.php">Import Master Data</a></li>
+                                            <li><a href="layouts-normal-header.php">Import Opening Balance</a></li>
+                                            <li><a href="layouts-normal-header.php">Bill Charges</a></li>
+                                            <li><a href="layouts-normal-header.php">Register Me</a></li>
                                            
                                         </ul>
                                     </li>

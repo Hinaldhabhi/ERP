@@ -118,7 +118,7 @@
                                                          <input type="text" name="nick" parsley-trigger="change" required="" placeholder="5764" class="form-control" id="userName"><br>
                                                       </div>
                                                       <div class="col-md-6">
-                                                         <input type="button" class="btn btn-secondary" value="..."><br>
+                                                         <input type="file" class="" value="..."><br>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -172,11 +172,11 @@
                                                 <div class="form-group">
                                                    <label for="userName">Billing Party<span class="text-danger">*</span></label>
                                                    <div class="row">
-                                                      <div class="col-md-10">
+                                                      <div class="col-md-6">
                                                          <input type="text" name="nick" parsley-trigger="change" required="" placeholder="B.M ROADLINES P LTD" class="form-control" id="userName">
                                                       </div>
-                                                      <div class="col-md-2">
-                                                         <input type="button"  class="btn btn-secondary" value="...">
+                                                      <div class="col-md-6">
+                                                         <input type="file"  class="" value="...">
                                                       </div>
                                                    </div>
                                                 </div>
@@ -187,11 +187,11 @@
                                                 <div class="form-group">
                                                    <label for="userName">Broker<span class="text-danger">*</span></label>
                                                    <div class="row">
-                                                      <div class="col-md-10">
+                                                      <div class="col-md-6">
                                                          <input type="text" name="nick" parsley-trigger="change" required="" placeholder="B.M ROADLINES P LTD" class="form-control" id="userName">
                                                       </div>
-                                                      <div class="col-md-2">
-                                                         <input type="button"  class="btn btn-secondary" value="...">
+                                                      <div class="col-md-6">
+                                                         <input type="file"  class="" value="...">
                                                       </div>
                                                    </div>
                                                 </div>

@@ -1,31 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-   
    <?php include_once('include/headerscript.php'); ?>
    <body data-layout="horizontal">
-    
       <div id="wrapper">
       <?php include_once('include/header.php'); ?>
-    
       <div class="content-page">
          <div class="content-page">
             <!-- Start content -->
             <div class="content">
                <div class="container-fluid">
-               <div class="row">
-                <div class="col-12">
-                    <div class="page-title-box">
-                        <div class="page-title-right">
-                        <button class="btn btn-secondary waves-effect" data-toggle="collapse" href="#document_detail"> <i class="ion ion-md-add mr-1"></i> <span>Add Document Details</span> </button>
-                        <!-- <button class="btn btn-primary mb-30 d-inline-block"  ></button> -->
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="page-title-box">
+                           <div class="page-title-right">
+                              <button class="btn btn-secondary waves-effect" data-toggle="collapse" href="#document_detail"> <i class="ion ion-md-add mr-1"></i> <span>Add Document Details</span> </button>
+                              <!-- <button class="btn btn-primary mb-30 d-inline-block"  ></button> -->
+                           </div>
+                           <h4 class="page-title">Document Details</h4>
                         </div>
-                        <h4 class="page-title">Document Details</h4>
-                    </div>
-                </div>
-            </div>
-                
+                     </div>
+                  </div>
                   <div id="document_detail" class="collapse">
-                    
                      <div class="row">
                         <div class="col-sm-12">
                            <div class="card-box">
@@ -38,7 +33,6 @@
                                        </div>
                                     </div>
                                  </div>
-                                
                                  <div class="row">
                                     <div class="col-md-12">
                                        <div class="form-group">
@@ -47,7 +41,6 @@
                                        </div>
                                     </div>
                                  </div>
-
                                  <!-- <div class="row">
                                     <div class="col-md-12">
                                        <div class="dropdown">
@@ -60,11 +53,7 @@
                                           </div>
                                        </div>
                                     </div>
-                                 </div> -->
-                                 
-                               
-
-                               
+                                    </div> -->
                                  <div class="row">
                                     <div class="col-md-6"  style="padding-top: 25px">
                                        <button type="button" class="btn btn-primary btn-bordered waves-effect w-md waves-light m-b-5" id="submit_completed">Submit</button>
@@ -122,8 +111,6 @@
          <!-- End Page content -->
          <!-- ============================================================== -->
       </div>
-     
-       
       <?php include_once('include/footerscript.php');?>
    </body>
 </html>

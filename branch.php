@@ -1,31 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-   
    <?php include_once('include/headerscript.php'); ?>
    <body data-layout="horizontal">
-    
       <div id="wrapper">
       <?php include_once('include/header.php'); ?>
-    
       <div class="content-page">
          <div class="content-page">
             <!-- Start content -->
             <div class="content">
                <div class="container-fluid">
-               <div class="row">
-                <div class="col-12">
-                    <div class="page-title-box">
-                        <div class="page-title-right">
-                        <button class="btn btn-secondary waves-effect" data-toggle="collapse" href="#branch_detail"> <i class="ion ion-md-add mr-1"></i> <span>Add Branch</span> </button>
-                        <!-- <button class="btn btn-primary mb-30 d-inline-block"  ></button> -->
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="page-title-box">
+                           <div class="page-title-right">
+                              <button class="btn btn-secondary waves-effect" data-toggle="collapse" href="#branch_detail"> <i class="ion ion-md-add mr-1"></i> <span>Add Branch</span> </button>
+                              <!-- <button class="btn btn-primary mb-30 d-inline-block"  ></button> -->
+                           </div>
+                           <h4 class="page-title">Add Branch Master</h4>
                         </div>
-                        <h4 class="page-title">Add Branch Master</h4>
-                    </div>
-                </div>
-            </div>
-                
+                     </div>
+                  </div>
                   <div id="branch_detail" class="collapse">
-                    
                      <div class="row">
                         <div class="col-sm-12">
                            <div class="card-box">
@@ -120,8 +115,6 @@
          <!-- End Page content -->
          <!-- ============================================================== -->
       </div>
-     
-       
       <?php include_once('include/footerscript.php');?>
    </body>
 </html>

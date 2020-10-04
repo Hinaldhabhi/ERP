@@ -21,7 +21,7 @@
                      </div>
                   </div>
                   <div id="distance_detail" class="collapse">
-                     <div class="row">  
+                     <div class="row">
                         <div class="col-sm-12">
                            <div class="card-box">
                               <form class="form-horizontal" role="form">
@@ -59,7 +59,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-12">
                                              <div class="form-group">
@@ -68,7 +67,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
                                           <div class="col-md-6">
                                              <div class="form-group">
@@ -80,7 +78,6 @@
                                              </div>
                                           </div>
                                        </div>
-
                                     </div>
                                     <div class="col-md-6">
                                        <div class="row">
@@ -92,7 +89,6 @@
                                           </div>
                                        </div>
                                        <div class="row">
-                                    
                                           <div class="col-md-12">
                                              <div class="form-group">
                                                 <label for="userName">Party Rate<span class="text-danger">*</span></label>
@@ -100,41 +96,32 @@
                                              </div>
                                           </div>
                                        </div>
-
                                        <div class="row">
-                                    
-                                         <div class="col-md-12">
-                                         <div class="form-group">
-                                             <label for="userName">Rate Formula dropdown<span class="text-danger">*</span></label>
-                                            <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Rate Formula dropdown<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
                                           </div>
-                                        </div>
-                                     </div>
-                                     <br><br>
-                                     <div class="row">
-                                    
-                                         <div class="col-md-12">
-                                         <div class="form-group">
-                                             <label for="userName">Broker Rate<span class="text-danger">*</span></label>
-                                            <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                       </div>
+                                       <br><br>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Broker Rate<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
                                           </div>
-                                        </div>
-                                     </div>
-                                    <br>
-                                     <div class="row">
-                                    
-                                    <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label for="userName">Rate Formula dropdown<span class="text-danger">*</span></label>
-                                       <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
-                                     </div>
-                                   </div>
-                                </div>
-                               
-                              
-       
-                                       
-
+                                       </div>
+                                       <br>
+                                       <div class="row">
+                                          <div class="col-md-12">
+                                             <div class="form-group">
+                                                <label for="userName">Rate Formula dropdown<span class="text-danger">*</span></label>
+                                                <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" class="form-control" id="userName">
+                                             </div>
+                                          </div>
+                                       </div>
                                     </div>
                                  </div>
                                  <div class="row">
